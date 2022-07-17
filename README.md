@@ -13,4 +13,5 @@
 
 ## Acesso atraves do link:
 
-https://cecilia-rds.github.io/luna-sebo-cafe
+https://cecilia-rds.github.io/Barbearia-Alura
+
